@@ -118,4 +118,4 @@ elif choice1 == 3:
     else:
         print("*****CODED BY GANESH*****")
 else:
-    print('Wrong Input ')
+    print('Wrong Input  ')
